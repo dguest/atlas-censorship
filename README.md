@@ -12,4 +12,8 @@ Or, if you want to know what words are fine, run
 get-atlas-like.py
 ```
 
-Happy Swearing.
+Happy Swearing!
+
+
+NOTE: I did not come up with this list. It is a very bad list, credit
+goes to the internet.
